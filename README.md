@@ -67,6 +67,8 @@ __Service Quality Trends__:
 
  This dashboard has a double report page.
 
+ ![image alt](https://github.com/Deborah-Kola/DELIVERY-AND-OPERATINAL-IMPROVEMENT-ANALYSIS/blob/main/URBANHAUL%20IMAGES/URBANHAUL%20RIDER%20PERFORMANCE.png?raw=true)
+
  ![image alt]()
   
 
